@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c81d1e19e9117c14c86a5ce020f417b9, type: 3}
+  m_Name: AfterStar
+  m_EditorClassIdentifier: 
+  spawnableSegments:
+  - segment: {fileID: 448580814289336263, guid: ef462ca2eb8e2aa4f8561e1f2a4d73fc, type: 3}
+    spawnChance: 1
+  - segment: {fileID: 448580814289336263, guid: f5467cef9bd327041af72ae5f8f63f9b, type: 3}
+    spawnChance: 1
+  - segment: {fileID: 448580814289336263, guid: 5ab9400ffd166924191eb423f0c55060, type: 3}
+    spawnChance: 2
